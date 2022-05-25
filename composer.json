@@ -1,0 +1,10 @@
+{
+  "autoload": {
+    "psr-4": {
+      "cms\\": "vendor/cms",
+      "app\\": "app"
+    }
+  },
+  "require": {
+  }
+}
